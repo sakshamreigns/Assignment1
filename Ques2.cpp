@@ -1,3 +1,5 @@
+//Program to convert distance from km to metres and inches//
+
 #include<iostream>
 using namespace std;
 
