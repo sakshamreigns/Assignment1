@@ -1,3 +1,5 @@
+//Program to calculate Average and Percentage of Marks obtained by students//
+
 #include<iostream>
 using namespace std;
 
