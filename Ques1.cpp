@@ -1,4 +1,4 @@
-//Program to calculate Gross Salary of Ramesh"
+//Program to calculate Gross Salary of Ramesh//
 
 #include<iostream>
 using namespace std;
